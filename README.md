@@ -54,6 +54,8 @@ The A* algorithm is the highlight of this system. It combines the actual cost fr
 $$f(n) = g(n) + h(n)$$
 This allows it to "ignore" paths that are moving away from the target, making it much faster than BFS or UCS in most scenarios.
 
+DEMO LINK:https://ai-disaster-rescue-planning-system.vercel.app/
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (or just use it freely!).
